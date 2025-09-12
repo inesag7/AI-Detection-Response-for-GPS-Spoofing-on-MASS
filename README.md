@@ -36,7 +36,7 @@ The simulator is organized as a modular pipeline to provide flexibility and scal
 - **Detection Engine:** Applies AI models to classify normal vs spoofed signals  
 
 ### Simulator Pipeline Diagram
-![Simulator Pipeline]([images/Data%20Pipeline.png](https://github.com/InesAg405/AI-Detection-Response-for-GPS-Spoofing-on-MASS/blob/main/images/data%20pip.png))
+![Simulator Pipeline](https://github.com/InesAg405/AI-Detection-Response-for-GPS-Spoofing-on-MASS/blob/main/images/data%20pip.png).
 
 ---
 
